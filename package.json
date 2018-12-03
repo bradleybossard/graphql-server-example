@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Bradley Bossard <bradleybossard@gmail.com> (http://bradleybossard.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "2.2.5",
+    "graphql": "14.0.2"
+  }
 }
