@@ -10,7 +10,7 @@
   "author": "Bradley Bossard <bradleybossard@gmail.com> (http://bradleybossard.com/)",
   "license": "MIT",
   "dependencies": {
-    "apollo-server": "2.2.5",
+    "apollo-server": "2.25.3",
     "graphql": "14.0.2"
   }
 }
